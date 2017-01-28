@@ -19,3 +19,34 @@ It contains all the programs problems for you to easily learn c language. happy 
            
 >2.
 ----
+# Sample problems
+
+## Problem 1:
+To display tables from 1 to 10 using for loop.
+### Answer. See c_ascii.cpp
+----
+## Problem 2:
+To learn the use of array.
+### Answer. See c_even_odd.cpp
+----
+## Problem 3:
+To display the ascii code of characters.
+### Answer. See c_no_pattern.cpp
+----
+## Problem 4:
+To display factorial of number.
+### Answer. See c_pattern.cpp
+----
+## Problem 5:
+To learn the use of nested loops.
+### Answer. See c_pttrn.cpp
+----
+## Problem 6:
+To determine the roots of quadratic equations.
+### Answer. See c_salary.cpp
+----
+## Problem 7:
+To determine whether the no is prime or not.
+### Answer. See c_square.cpp
+----
+
