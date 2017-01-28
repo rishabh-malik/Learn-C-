@@ -23,30 +23,30 @@ It contains all the programs problems for you to easily learn c language. happy 
 
 ## Problem 1:
 To display tables from 1 to 10 using for loop.
-### Answer. See c_ascii.cpp
+### Answer. See 1-10tables.cpp
 ----
 ## Problem 2:
 To learn the use of array.
-### Answer. See c_even_odd.cpp
+### Answer. See array.cpp
 ----
 ## Problem 3:
 To display the ascii code of characters.
-### Answer. See c_no_pattern.cpp
+### Answer. See ascii_code.cpp
 ----
 ## Problem 4:
 To display factorial of number.
-### Answer. See c_pattern.cpp
+### Answer. See factorial.cpp
 ----
 ## Problem 5:
 To learn the use of nested loops.
-### Answer. See c_pttrn.cpp
+### Answer. See nestedLoop.cpp
 ----
 ## Problem 6:
 To determine the roots of quadratic equations.
-### Answer. See c_salary.cpp
+### Answer. See prepare.cpp
 ----
 ## Problem 7:
 To determine whether the no is prime or not.
-### Answer. See c_square.cpp
+### Answer. See prime.cpp
 ----
 
